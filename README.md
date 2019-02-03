@@ -26,4 +26,4 @@ open terminal in pupy/pupy and type:
 ```
 if your victim install the RAT open the session.
 
-## GOOD LUCK (Aohammad Amin Ghaemi)
+## GOOD LUCK (Mohammad Amin Ghaemi)
