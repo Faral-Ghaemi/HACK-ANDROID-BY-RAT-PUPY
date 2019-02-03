@@ -1,4 +1,4 @@
-# HACK-ANDROID-BY-RAT-PUPY
+# HACK ANDROID BY RAT PUPY
 HACK ANDROID BY NEW RAT (PUPY SHELL)
 
 First step you need installed pupy shell in this link:
@@ -25,4 +25,4 @@ open terminal in pupy/pupy and type:
 ```
 if your victim install the RAT open the session.
 
-##GOOD LUCK
+## GOOD LUCK (mohammad amin ghaemi)
